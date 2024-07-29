@@ -18,20 +18,26 @@ const links = [
 ]
 const rules = [
     {
-        priority: 0,
+        priority: 10,
         name: 'redirect',
         url: 'https://june07.com',
         timeout: 10
     },{
-        priority: 0,
+        priority: 10,
         name: 'redirect',
         url: 'https://june07.com/searchable-node-js-docs-plus-more',
         timeout: 10
     },{
-        priority: 0,
+        priority: 10,
         name: 'redirect',
         url: 'https://nim.june07.com',
         timeout: 10
+    },{
+        priority: 0,
+        name: 'redirect',
+        url: 'https://raw.githubusercontent.com/june07/ghost-content/main/2024/07/gene-wilder-picture-9-1200x675.webp',
+        referrer: 'nim',
+        timeout: 5
     }
 ]
 export { links, rules }
