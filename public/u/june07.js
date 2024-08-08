@@ -49,7 +49,7 @@ const rules = [
         url: 'https://nim.june07.com',
         timeout: 10
     },{
-        priority: 0,
+        priority: 20,
         name: 'redirect',
         url: 'https://raw.githubusercontent.com/june07/ghost-content/main/2024/07/gene-wilder-picture-9-1200x675.webp',
         referrer: 'nim',
