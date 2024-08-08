@@ -15,6 +15,22 @@ const links = [
         title: 'NiM Homepage',
         favicon: 'https://nim.june07.com/favicon.ico'
     },
+    {
+        url: 'https://raw.githubusercontent.com/june07/ghost-content/main/2024/07/btc.address.webp',
+        title: 'Bitcoin Wallet Address',
+    },
+    {
+        url: 'https://raw.githubusercontent.com/june07/ghost-content/main/2024/07/eth.address.webp',
+        title: 'Ethereum Wallet Address',
+    },
+    {
+        url: 'https://raw.githubusercontent.com/june07/ghost-content/main/2024/07/near.address.webp',
+        title: 'NEAR Wallet Address',
+    },
+    {
+        url: 'https://raw.githubusercontent.com/june07/ghost-content/main/2024/07/trx.address.webp',
+        title: 'Tron Wallet Address',
+    },
 ]
 const rules = [
     {
