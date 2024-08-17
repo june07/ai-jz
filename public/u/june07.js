@@ -31,6 +31,16 @@ const links = [
         url: 'https://raw.githubusercontent.com/june07/ghost-content/main/2024/07/trx.address.webp',
         title: 'Tron Wallet Address',
     },
+    {
+        url: 'https://policies.june07.com/',
+        title: 'Single Click, Git Hosted, Policy Documents',
+        favicon: 'https://policies.june07.com/logo-v3-512x512.png'
+    },
+    {
+        url: 'https://clippings.june07.com/',
+        title: 'Classified Ads Archival',
+        favicon: 'https://clippings.june07.com/favicon.ico'
+    },
 ]
 const rules = [
     {
